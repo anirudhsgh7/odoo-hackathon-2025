@@ -20,3 +20,4 @@ siddhant22496@iiitd.ac.in
 - npm i express mongoose bcryptjs cors
 - npm i dotenv jsonwebtoken nodemon
 - models/auth.js
+- models/Questions.js
