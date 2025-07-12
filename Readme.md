@@ -26,3 +26,6 @@ siddhant22496@iiitd.ac.in
 - controllers/auth.js
 - controllers/Questions.js
 - controllers/users.js
+- routes/Answers.js
+- routes/Questions.js
+- routes/users.js
