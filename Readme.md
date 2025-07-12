@@ -23,3 +23,4 @@ siddhant22496@iiitd.ac.in
 - models/Questions.js
 - middleware/auth.js
 - controllers/Answers.js
+- controllers/auth.js
