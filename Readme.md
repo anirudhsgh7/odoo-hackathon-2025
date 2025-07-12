@@ -21,3 +21,4 @@ siddhant22496@iiitd.ac.in
 - npm i dotenv jsonwebtoken nodemon
 - models/auth.js
 - models/Questions.js
+- middleware/auth.js
