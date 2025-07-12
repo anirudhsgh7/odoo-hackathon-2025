@@ -18,3 +18,5 @@ siddhant22496@iiitd.ac.in
 - create-react-app@5.1.0
 - npx create-react-app server
 - npm i express mongoose bcryptjs cors
+- npm i dotenv jsonwebtoken nodemon
+- models/auth.js
