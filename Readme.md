@@ -13,3 +13,7 @@ siddharth22498@iiitd.ac.in
 
 Siddhant Bali
 siddhant22496@iiitd.ac.in
+
+- Server
+- create-react-app@5.1.0
+- npx create-react-app server
